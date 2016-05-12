@@ -1,4 +1,4 @@
 MonProjetGit
 ============
 
-Un projt pour apprendre à utiliser GitHub
+Un projet pour apprendre à utiliser GitHub
